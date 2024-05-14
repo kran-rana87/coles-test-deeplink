@@ -1,0 +1,86 @@
+[
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.coles.android.shopmate",
+          "sha256_cert_fingerprints": [
+              "AB:D3:15:A5:F0:FC:F1:A4:C6:F8:1C:CA:92:9B:3C:B2:C3:43:4A:87:BD:75:92:FD:FF:71:6A:27:A2:85:05:4A"
+          ]
+      }
+  },
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.coles.android.shopmate",
+          "sha256_cert_fingerprints": [
+              "D7:A6:13:8E:26:15:85:32:DD:71:A0:89:48:DB:64:54:4E:3F:09:53:75:2D:A9:E7:C6:08:D1:66:1C:FA:68:10"
+          ]
+      }
+  },
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.coles.android.shopmate",
+          "sha256_cert_fingerprints": [
+            "2D:45:DC:82:32:50:79:75:0B:C1:DB:B5:A8:F6:EF:04:E6:FA:CD:00:71:58:13:5F:AE:AD:BF:2E:8E:1E:B8:F7"
+          ]
+      }
+  },
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.coles.android.shopmate.debug",
+          "sha256_cert_fingerprints": [
+              "D7:A6:13:8E:26:15:85:32:DD:71:A0:89:48:DB:64:54:4E:3F:09:53:75:2D:A9:E7:C6:08:D1:66:1C:FA:68:10"
+          ]
+      }
+  },
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.coles.android.shopmate",
+          "sha256_cert_fingerprints": [
+              "BA:BD:7C:27:53:C6:E8:CB:EF:5D:09:6F:86:FE:78:45:6F:F4:80:B8:97:EB:37:83:9F:80:5D:AC:B0:AF:1D:BF"
+          ]
+      }
+  },
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.coles.android.shopmate.debug",
+          "sha256_cert_fingerprints": [
+              "BA:BD:7C:27:53:C6:E8:CB:EF:5D:09:6F:86:FE:78:45:6F:F4:80:B8:97:EB:37:83:9F:80:5D:AC:B0:AF:1D:BF"
+          ]
+      }
+  },
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.coles.android.shopmate.debug",
+          "sha256_cert_fingerprints": [
+              "20:FA:07:20:05:A0:FD:CA:F8:00:C1:17:BA:E8:71:0E:79:39:6F:18:4C:E9:7E:2D:D8:29:B4:5E:BF:F9:FB:DB"
+          ]
+      }
+  }
+]
